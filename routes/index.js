@@ -1,4 +1,5 @@
 var express = require('express');
+var partials = require('express-partials');
 var router = express.Router();
 
 /* GET home page. */
